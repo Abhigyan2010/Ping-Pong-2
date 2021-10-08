@@ -1,0 +1,9 @@
+.copyright{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(162, 163, 163);
+    font-size: 25px;
+    color: white;
+    padding: 17px;
+}
